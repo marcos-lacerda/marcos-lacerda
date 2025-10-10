@@ -57,7 +57,7 @@
 
 ### 🚀 Senior Software Engineer | Full-Stack & Mobile Developer | Software Architect  
 📍 São Paulo, Brazil  
-📧 marcos.lacerda@outlook.com | 🌐 ### My Personal Project [agenttrip.com.br](https://agenttrip.com.br) | [LinkedIn](https://www.linkedin.com/in/marcos-lacerda)
+📧 marcos.lacerda@outlook.com | # 🌐 My Personal Project [agenttrip.com.br](https://agenttrip.com.br) | [LinkedIn](https://www.linkedin.com/in/marcos-lacerda)
 
 ---
 
