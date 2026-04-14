@@ -59,6 +59,16 @@ Now I'm building **[Agent Trip](https://github.com/agent-trip)** — a travel pl
 
 ---
 
+## 🏆 Career Highlights
+
+- 🏗 **Founding Engineer at Turbi** — Built the iOS app from day zero; sole iOS developer for 3 years in a fully digital car rental operation
+- 🔐 **Pioneered 3D facial validation in Brazil** — Researched and implemented FaceTec 3D Liveness in 48h after a security incident — technology now standard in banks and fintechs
+- 🔄 **Product-minded engineer** — Voluntarily moved to backend & Flutter to solve operational problems, acting as informal PO with stakeholders
+- 📡 **IoT telemetry at scale** — Built event-driven pipeline processing thousands of real-time messages (GCP PubSub + MongoDB Time Series)
+- ✈️ **Solo founder** — Agent Trip: 200+ downloads, first real transactions in 3 months, full-stack from product strategy to infrastructure
+
+---
+
 ## ✈️ Current Project
 
 <a href="https://github.com/agent-trip">
